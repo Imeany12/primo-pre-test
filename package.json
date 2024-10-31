@@ -18,6 +18,5 @@
     "jest": "^29.7.0",
     "ts-jest": "^29.2.5",
     "tsx": "^4.19.2"
-  },
-  "packageManager": "pnpm@7.13.6+sha512.28819ffffd1ca238d7ddc50beb782f024f1de6df6d83ee61e80c4b1b2c50c2808fb69b235da7e6fdab882720d4521f5156670fbac27176238d920c4f9db5b560"
+  }
 }
